@@ -1,0 +1,351 @@
+    1  ssh-keygen
+    2  cat ~/.ssh/id_rsa.pub
+    3  git clone ssh://git@src.moneyligh.com:2244/nixmoney/helm.git
+    4  git config --global user.name "Vik"
+    5  git config --global user.email "viktorplus3@gmail.com"
+    6  ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+    7  ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+    8  ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+    9  ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+   10  ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+   11  ssh://git@src.moneyligh.com:2244/nixexchange/nixexchange.git
+   12  cat ~/.ssh/id_rsa.pub
+   13  ssh://git@src.moneyligh.com:2244/nixexchange/nixexchange.git
+   14  ls
+   15  cd..
+   16  cd ~
+   17  ls
+   18  cd Documets
+   19  cd documents/
+   20  ls
+   21  cd nix/
+   22  ls
+   23  ssh://git@src.moneyligh.com:2244/nixexchange/nixexchange.git
+   24  ssh://git@src.moneyligh.com:2244/nixexchange/usdt-omni-controller.git
+   25  sh://git@src.moneyligh.com:2244/nixmoney/helm.git
+   26  ssh-keygen
+   27  cat ~/.ssh/id_rsa.pub
+   28  git clone [200~ssh://git@src.moneyligh.com:2244/nixmoney/helm.git
+   29  git clone ssh://git@src.moneyligh.com:2244/nixmoney/bitcoin-client.git
+   30  git clone ssh://git@src.moneyligh.com:2244/nixexchange/nixexchange.git
+   31  git clone ssh://git@src.moneyligh.com:2244/[200~
+   32  git clone ssh://git@src.moneyligh.com:2244/nixmoney/nixmoney-cryptocoins.git
+   33  git clone git@src.moneyligh.com:2244/nixmoney/nixmoney-webapp.git
+   34  git clone ssh://git@src.moneyligh.com:2244/nixmoney/nixmoney-webapp.git
+   35  git clone ssh://git@src.moneyligh.com:2244/nixmoney/nixmoney-webapp-fix.git
+   36  git clone ssh://git@src.moneyligh.com:2244/nixexchange/nixmoneyapi.git
+   37  git clone ssh://git@src.moneyligh.com:2244/nixmoney/nixmoneydb.git
+   38  git clone ssh://git@src.moneyligh.com:2244/nixexchange/admin-panel.git
+   39  git clone ssh://git@src.moneyligh.com:2244/nixexchange/operator-panel.git
+   40  git clone ssh://git@src.moneyligh.com:2244/nixmoney/rushnix.git
+   41  git clone ssh://git@src.moneyligh.com:2244/nixexchange/ethereum-controller.git
+   42  git clone ssh://git@src.moneyligh.com:2244/nixexchange/usdt-omni-controller.git
+   43  mvn install
+   44  help 1
+   45  mvn install
+   46  mvn install
+   47  mvn install
+   48  mvn install
+   49  mvn install
+   50  mvn install:install-file "-Dfile=jars/CryptoLIB-1.0-SNAPSHOT.jar" "-DgroupId=ainmarh" "-DartifactId=CryptoLIB" "-Dversion=1.0-SNAPSHOT" "-Dpackaging=jar"
+   51  mvn install:install-file "-Dfile=jars/simplecaptcha-1.2.1.jar" "-DgroupId=ainmarh" "-DartifactId=simplecaptcha" "-Dversion=1.2.1" "-Dpackaging=jar"
+   52  mvn install
+   53  mvn install
+   54  mvn install
+   55  mvn install
+   56  ьмт штіефдд
+   57  mvn install
+   58  ьмт штыефдд
+   59  mvn install
+   60  mvvn install
+   61  mvn    install
+   62  mvn install
+   63  mvn install
+   64  mvn install
+   65  mvn install
+   66  mvn install
+   67  mvn install
+   68  mvn install
+   69  mvn install
+   70  mvn install
+   71  mvn install
+   72  mvn install
+   73  mvn install /f
+   74  mvn install /f
+   75  mvn install
+   76  mvn install
+   77  mvn install
+   78  mvn install
+   79  mvn install:install-file "-Dfile=jars/CryptoLIB-1.0-SNAPSHOT.jar" "-DgroupId=ainmarh" "-DartifactId=CryptoLIB" "-Dversion=1.0-SNAPSHOT" "-Dpackaging=jar"
+   80  [200~
+   81  mvn install:install-file "-Dfile=jars/simplecaptcha-1.2.1.jar" "-DgroupId=ainmarh" "-DartifactId=simplecaptcha" "-Dversion=1.2.1" "-Dpackaging=jar"
+   82  mvn install
+   83  mvn install
+   84  mvn install
+   85  mvn install
+   86  mvn install
+   87  mvn install
+   88  mvn install
+   89  mvn install
+   90  mvn install
+   91  mvn install
+   92  mvn install
+   93  mvn install
+   94  mvn install
+   95  mvn install
+   96  git diff
+   97  git status
+   98  git add -u
+   99  git commit
+  100  git ommit
+  101  git commit
+  102  git config --global core.editor "nano"
+  103  git commit
+  104  git push origin main
+  105  git status
+  106  gitt diff
+  107  git diff
+  108  git diff
+  109  git status
+  110  git add -u
+  111  git commit
+  112  git push origin main
+  113  git status
+  114  git commit
+  115  git add gitlab-windows.pdf
+  116  git add install.xtx
+  117  git add install2
+  118  git commit
+  119  git push origin main
+  120  git status
+  121  git diff
+  122  git diff
+  123  git diff
+  124  git diff
+  125  git diff
+  126  git diff
+  127  git diff
+  128  git add gitlab-windows.pdf
+  129  git add install2
+  130  git commit
+  131  git push origin master
+  132  git status
+  133  git commit
+  134  git push origin master
+  135  git commit
+  136  git status
+  137  git diff
+  138  git status
+  139  git commit
+  140  git commit -a
+  141  cat ~/.ssh/id_rsa.pub
+  142  mvn pakage
+  143  mvn package
+  144  cd target
+  145  ls
+  146  ssh root@65.109.14.131
+  147  scp NixExchange.war root@65.109.14.131
+  148  ssh root@65.109.14.131
+  149  scp NixExchange.war root@65.109.14.131
+  150  ssh root@65.109.14.131
+  151  scp NixExchange.war root@65.109.14.131
+  152  ls
+  153  scp NixExchange.war root@65.109.14.131:
+  154  ssh root@65.109.14.131
+  155   ssh root@65.109.14.131
+  156  ssh -Y dron@148.251.40.245 -p 8822
+  157  ssh melon@176.9.161.181 -p 8822
+  158  ssh avelblood@95.217.104.124 -p 19483
+  159  ssh avelblood@95.217.104.124 -p 19483
+  160  ssh melon@136.243.148.11 -p 8822
+  161  ssh melon@136.243.148.11 -p 8822
+  162  ssh melon@5.9.12.7 -p 8822
+  163  ssh root@159.69.152.14 -p 19483
+  164   ssh root@78.47.187.205 -p 19483
+  165  ssh avelblood@135.181.0.101 -p 19483
+  166  ssh avelblood@135.181.0.101 -p 19483
+  167  ssh melon@176.9.161.168 -p 8822
+  168  ssh melon@176.9.161.181 -p 8822
+  169  ssh melon@5.9.12.7 -p 8822
+  170  ssh melon@144.76.20.218 -p 8822
+  171  ssh -vvv melon@176.9.161.181 -p 8822
+  172  ssh -vvv melon@5.9.12.7 -p 8822
+  173  ssh -vvv melon@144.76.20.218 -p 8822
+  174  nano ~/.ssh/config~
+  175  nano ~/.ssh/config
+  176  nano ~/.ssh/config
+  177  ssh -vvv melon@176.9.161.181 -p 8822
+  178   ssh -vvv melon@5.9.12.7 -p 8822
+  179  ssh -vvv melon@144.76.20.218 -p 8822~
+  180  ssh -vvv melon@144.76.20.218 -p 8822
+  181  ssh root@65.108.228.81 -p 2244
+  182  ssh root@135.181.98.77 -p 2244
+  183  ssh root@38.242.195.121 -p 2244
+  184  ssh root@65.21.178.43 -p 2244
+  185  [200~
+  186  ssh root@65.108.228.160 -p 2244~
+  187  ssh root@65.108.228.160 -p 2244
+  188  ssh -Y dron@148.251.40.245 -p 8822
+  189  ssh -Y dron@148.251.40.245 -p 8822
+  190  ssh -Y dron@148.251.40.245 -p 8822
+  191  ssh root@65.108.228.160 -p 2244
+  192  ssh root@65.108.228.160 -p 2244
+  193  ssh root@38.242.195.121 -p 2244
+  194  ssh root@38.242.195.121 -p 2244
+  195  git status
+  196  on braunch dev
+  197  on braunch dev
+  198  git config --global init.defaultBranch <master>
+  199  git config --global init.defaultBranch <master>
+  200  ssh melon@nixmoney.com
+  201  ssh melon@nixmoney.com
+  202  ssh melon@nixmoney.com
+  203  ssh melon@136.243.148.11 -p 8822
+  204  ls
+  205  ls -al ~/.ssh
+  206  [200~~ cat ~/.ssh/id_rsa
+  207  cat ~/.ssh/id_rsa
+  208  cat ~/.ssh/id_rsa.pub
+  209  ssh melon@136.243.148.11 -p 8822
+  210  path$
+  211  path
+  212  $path
+  213  ssh melon@144.76.20.218 -p 8822
+  214  scp -i ~/.ssh/id_rsa melon@144.76.20.218:/tmp/history_lab.txt /c/Users/сз24/Downloads/
+  215  scp -P 8822 -i ~/.ssh/id_rsa melon@144.76.20.218:/tmp/history_lab.txt /c/Users/cp24/Downloads/
+  216  ssh melon@144.76.20.218 -p 8822
+  217  ssh melon@144.76.20.218 -p 8822
+  218  ssh -Y dron@148.251.40.245 -p 8822
+  219  ssh melon@nixmoney.com
+  220  ssh melon@5.9.12.7 -p 8822
+  221  ssh melon@144.76.20.218 -p 8822
+  222  ssh melon@144.76.20.218 -p 8822
+  223  ssh avelblood@135.181.0.101 -p 19483
+  224  ssh melon@5.9.12.7 -p 8822
+  225  ssh melon@ 176.9.161.181 -p 8822
+  226  ssh melon@ 176.9.161.181 -p 8822
+  227  ping 176.9.161.181
+  228  ssh melon@ 176.9.161.181 -p 8822
+  229  ssh melon@176.9.161.181 -p 8822
+  230  ssh melon@ 176.9.161.181 -p 8822
+  231  ssh melon@176.9.161.181 -p 8822
+  232  ssh-copy-id -p 8822 -i ~/.ssh/id_rsa.pub melon@176.9.161.181
+  233  ssh -p 8822 melon@176.9.161.181
+  234  ssh avelblood@135.181.0.101 -p 19483
+  235  ssh melon@5.9.12.7 -p 8822
+  236  ssh melon@5.9.12.7 -p 8822
+  237  ssh melon@5.9.12.7 -p 8822
+  238  ssh melon@5.9.12.7 -p 8822
+  239  ssh avelblood@135.181.0.101 -p 19483
+  240  ssh root@185.182.184.40 
+  241  ssh viktor@185.182.184.40 
+  242  ssh viktor@185.182.184.40 
+  243  ssh viktor@185.182.184.40 
+  244  ssh root@45.140.146.143
+  245  viktor@s2.viktorplus.com
+  246  ssh viktor@s2.viktorplus.com
+  247  ssh viktor@s2.viktorplus.com
+  248  ssh viktor@s2.viktorplus.com
+  249  ssh melon@144.76.20.218 -p 8822
+  250  ssh melon@144.76.20.218 -p 8822
+  251  ssh melon@144.76.20.218 -p 8822
+  252  ssh melon@144.76.20.218 -p 8822
+  253  ssh melon@144.76.20.218 -p 8822
+  254  ssh melon@144.76.20.218 -p 8822
+  255  ssh melon@144.76.20.218 -p 8822
+  256  scp -P 8822 /c/tmp/stunnel-5.76.tar.gz melon@144.76.20.218:/usr/local/src
+  257  scp -P 8822 c:/tmp/stunnel-5.76.tar.gz melon@144.76.20.218:/usr/local/src
+  258  scp -P 8822 c:\tmp\stunnel-5.76.tar.gz melon@144.76.20.218:/usr/local/src
+  259  scp -P 8822 /c/tmp/stunnel-5.76.tar.gz melon@144.76.20.218:/home/melon/
+  260  ssh melon@144.76.20.218 -p 8822
+  261  ssh melon@144.76.20.218 -p 8822
+  262  git config --global -l
+  263  git config --global user.email "viktorplus3@gmail.com"
+  264  git config --global -l
+  265  gui.recentrepo=C:/Users/cp24/Documents/ich/git
+  266  git config --global -l
+  267  ~
+  268  cd ~
+  269  pwd
+  270  ls -lah
+  271  git init
+  272  git log
+  273  git status
+  274  git branch
+  275  git init
+  276  git add .
+  277  git commint -m "Первый запуск"
+  278  git comint -m "Первый запуск"
+  279  git comit -m "Первый запуск"
+  280  git commit -m "Первый запуск"
+  281  git git branch -M main
+  282  git remote add origin git@github.com:viktorplus/django_windows.git
+  283  git push -u origin main
+  284  git push -u origin main
+  285  git branch -M main  
+  286  git push -u origin main
+  287  git push -u origin main
+  288  git add .
+  289  git commit -m "wsl"
+  290  git push -u origin main
+  291  git add .
+  292  git commit -m "журнал трейдера"
+  293  git push -u origin main
+  294  git add .
+  295  git commit -m "колонка обьем позиции "
+  296  git push -u origin main
+  297  git commit -m "css base.html"
+  298  git commit -m "css base.html"
+  299  git push -u origin main
+  300  pw
+  301  pwd
+  302  cd Documents/git
+  303  git init
+  304  echo '<html>
+    <head><title>My Git Project</title></head>
+    <body>
+        <h1>Hello, Git!</h1>
+    </body>
+</html>'
+  305  echo '<html>
+    <head><title>My Git Project</title></head>
+    <body>
+        <h1>Hello, Git!</h1>
+    </body>
+</html>' >index.html
+  306  git add index.html
+  307  git commit -m 'Inital commit with index.html'
+  308  ls
+  309  cd ..
+  310  cd git_lesson
+  311  ls
+  312  cd lesson_git
+  313  git status
+  314  git remote add origin git@github.com:viktorplus/lesson_git_10.git
+  315  git push -u origin main
+  316  git push -u origin main
+  317  git branch -M main
+  318  git push -u origin main
+  319  git pull origin main --allow-unrelated-histories
+  320  git push -u origin main
+  321  git checkout -b feature-add-about
+  322  git branch
+  323  > about.html
+  324  nano about.html
+  325  git status
+  326  git diff
+  327  nano index.html
+  328  git diff
+  329  git add .
+  330  git commit -m "Add about section"
+  331  git push -u origin feature-add-about 
+  332  git pull origin main
+  333  git merge feature-add-about
+  334  git push origin main
+  335  git checkout main
+  336  git pull origin main
+  337  git status
+  338  git branch -d feature-add-about 
+  339  git branch -D feature-add-about
+  340  git push origin --delete feature-add-about
+  341  history >> history.txt

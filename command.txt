@@ -1,0 +1,46 @@
+cd Documents/lesson_git
+git init
+echo '<html>
+    <head><title>My Git Project</title></head>
+    <body>
+        <h1>Hello, Git!</h1>
+    </body>
+</html>' >index.html
+
+git add index.html
+
+git commit -m 'Inital commit with index.html'
+
+git remote add origin git@github.com:viktorplus/lesson_git_10.git
+
+git branch -M main
+
+git pull origin main --allow-unrelated-histories
+
+git push -u origin main
+
+git checkout -b feature-add-about
+
+git branch
+
+> about.html
+nano about.html
+
+git status
+
+git diff
+
+nano index.html
+
+git add .
+
+git commit -m "Add about section"
+
+git push -u origin feature-add-about 
+
+git checkout main
+git pull origin main
+git status
+git branch -d feature-add-about 
+git branch -D feature-add-about
+git push origin --delete feature-add-about
